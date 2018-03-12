@@ -1,0 +1,11 @@
+Liczba pracowników: 6
+|Damian        |Bilski      |3600.0 zł.  |  m  |1 
+|Anna          |Nowak       |3500.0 zł.  |  k  |1 
+|Jan           |Mazur       |4200.0 zł.  |  m  |2 
+|Janusz        |Wach        |4700.0 zł.  |  m  |1 
+|Dorota        |Szary       |3700.0 zł.  |  k  |2 
+|Paweł         |Wilk        |4000.0 zł.  |  m  |3 
+Średnia płaca w firmie: 3 950,00 zł.
+Średnia płaca w dziale 1 wynosi: 3 933,33 zł.
+Średnia płaca w dziale 2 wynosi: 3 950,00 zł.
+Średnia płaca w dziale 3 wynosi: 4 000,00 zł.
